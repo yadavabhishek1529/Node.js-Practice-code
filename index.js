@@ -1,1 +1,3 @@
-console.log(45)
+const abhi = require("./second")
+
+console.log("Hello", abhi);
